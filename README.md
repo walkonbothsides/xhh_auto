@@ -5,8 +5,10 @@
 1. 从[releases](https://github.com/chr233/xhh_auto/releases)下载最新的脚本
 2. 修改config_sample.json，填入自己的账号凭据,[方糖skey获取](http://sc.ftqq.com)
 3. 将文件另存为config.json
-4. python3 ./start.py
- * Linux用户记得先赋予脚本执行权限
+4. 切换到脚本目录
+5. `pip install -r requestments.txt`
+6. `python3 ./start.py`
+ * Linux用户记得先赋予脚本执行权限 `chmod 755 *.py`
 
 
 PS:本脚本支持多账户,将json配置成下面这样即可(请注意格式)
