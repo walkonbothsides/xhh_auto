@@ -5,7 +5,7 @@
 1. 从[releases](https://github.com/chr233/xhh_auto/releases)下载最新的脚本
 2. 修改config_sample.json，填入自己的账号凭据,[方糖skey获取](http://sc.ftqq.com)
 3. 将文件另存为config.json
-4. 切换到脚本目录
+4. 切换到脚本所在目录
 5. `pip install -r requirements.txt`
 6. `python3 ./start.py`
  * Linux用户记得先赋予脚本执行权限 `chmod 755 *.py`
