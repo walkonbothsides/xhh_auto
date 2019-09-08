@@ -6,7 +6,7 @@
 2. 修改config_sample.json，填入自己的账号凭据,[方糖skey获取](http://sc.ftqq.com)
 3. 将文件另存为config.json
 4. 切换到脚本目录
-5. `pip install -r requestments.txt`
+5. `pip install -r requirements.txt`
 6. `python3 ./start.py`
  * Linux用户记得先赋予脚本执行权限 `chmod 755 *.py`
 
